@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "EmailGuard public API PHP SDK. See https://emailguard.co/docs/api-reference/guides/sdk-php for setup, authentication, and examples.",
     "keywords": [
         "openapitools",
